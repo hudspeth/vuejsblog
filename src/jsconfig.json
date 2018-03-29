@@ -1,0 +1,9 @@
+{
+    "typeAcquisition": {
+        "include": [
+            "firebase",
+            "vue-resource",
+            "vue"
+        ]
+    }
+}
